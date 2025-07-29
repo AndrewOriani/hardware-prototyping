@@ -1,0 +1,9 @@
+Manufacturer=RECOM Power
+PartNumber=R-781.8-0.5
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=3
+Version=3.1
+Released=2021-11-24 08:18:13
+Downloaded=2025-07-24 05:06:39
+3D=Y

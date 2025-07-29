@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISO6740FDWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ISO6740FDWR" (!) = "", "SOIC127P1030X265-16N", "Small Outline Packages", "595-ISO6740FDWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO6740FDWR?qs=QNEnbhJQKvbxRK10ZtQXeg%3D%3D", "General-purpose, quad-channel, 4/0 digital isolator", "https://www.ti.com/lit/gpn/iso6740", "2.65 mm"
+END_PART
+
+END.

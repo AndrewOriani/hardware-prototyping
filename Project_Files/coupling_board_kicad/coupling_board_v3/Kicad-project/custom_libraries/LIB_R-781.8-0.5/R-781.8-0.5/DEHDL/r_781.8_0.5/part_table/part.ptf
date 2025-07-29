@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'R_781.8_0.5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RECOM Power", "R-781.8-0.5" (!) = "", "R781805", "Other", "919-R-781.8-0.5", "https://www.mouser.co.uk/ProductDetail/RECOM-Power/R-7818-05?qs=YWgezujkI1JrqyUZzqm94A%3D%3D", "Recom Through Hole Switching Regulator, 1.8V dc Output Voltage, 4.75  32V dc Input Voltage, 500mA Output Current", "https://recom-power.com/pdf/Innoline/R-78-0.5.pdf", "10.7 mm"
+END_PART
+
+END.

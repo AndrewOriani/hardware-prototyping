@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RLS_397'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RECOM Power", "RLS-397" (!) = "", "RLS397", "Other", "919-RLS-397", "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RLS-397?qs=gZXFycFWdAMzj7SWZ0VCrw%3D%3D", "Inductor Power Unshielded Wirewound 3.9uH 20% 100KHz 1.32A 0.14Ohm DCR 1812 Bag", "https://recom-power.com/pdf/Accessories/RLS-397.pdf", "3.1 mm"
+END_PART
+
+END.

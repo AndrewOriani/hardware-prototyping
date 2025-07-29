@@ -1,0 +1,16 @@
+.R-781.8-0.5 :1 ;Recom Through Hole Switching Regulator, 1.8V dc Output Voltage, 4.75  32V dc Input Voltage, 500mA Output Current
+R781805
+*STM PS
+*NGS
+*PLB 1="+VIN" 2="GND" 3="+VOUT"
+*MXP 3
+*DFN R-781.8-0.5
+~!Mouser Part Number (919-R-781.8-0.5)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/RECOM-Power/R-7818-05?qs=YWgezujkI1JrqyUZzqm94A%3D%3D)
+~!Manufacturer_Name (RECOM Power)
+~!Manufacturer_Part_Number (R-781.8-0.5)
+~!Link Datasheet (https://recom-power.com/pdf/Innoline/R-78-0.5.pdf)
+~!Height (10.7mm)
+~!3D_Model (R-781.8-0.5)
+R-781.8-0.5
+1.1!U 2.1!U 3.1!U 

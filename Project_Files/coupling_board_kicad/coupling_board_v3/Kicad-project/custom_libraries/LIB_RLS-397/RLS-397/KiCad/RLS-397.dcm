@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RLS-397
+D Inductor Power Unshielded Wirewound 3.9uH 20% 100KHz 1.32A 0.14Ohm DCR 1812 Bag
+K
+F https://recom-power.com/pdf/Accessories/RLS-397.pdf
+$ENDCMP
+#
+#End Doc Library

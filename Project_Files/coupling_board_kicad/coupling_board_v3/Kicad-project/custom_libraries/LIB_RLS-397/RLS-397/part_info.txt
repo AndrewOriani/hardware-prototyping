@@ -1,0 +1,9 @@
+Manufacturer=RECOM Power
+PartNumber=RLS-397
+PartCategory=Power Supply
+PackageCategory=Other
+PinCount=2
+Version=3.3
+Released=2020-07-15 13:43:06
+Downloaded=2025-07-25 05:51:20
+3D=Y

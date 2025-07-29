@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=43650-0215
+PartCategory=Connector
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2017-04-10 08:44:17
+Downloaded=2025-07-25 06:41:13
+3D=Y

@@ -1,0 +1,16 @@
+.RLS-397 :1 ;Inductor Power Unshielded Wirewound 3.9uH 20% 100KHz 1.32A 0.14Ohm DCR 1812 Bag
+RLS397
+*STM PS
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN RLS-397
+~!Mouser Part Number (919-RLS-397)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/RECOM-Power/RLS-397?qs=gZXFycFWdAMzj7SWZ0VCrw%3D%3D)
+~!Manufacturer_Name (RECOM Power)
+~!Manufacturer_Part_Number (RLS-397)
+~!Link Datasheet (https://recom-power.com/pdf/Accessories/RLS-397.pdf)
+~!Height (3.1mm)
+~!3D_Model (RLS-397)
+RLS-397
+1.1!U 2.1!U 

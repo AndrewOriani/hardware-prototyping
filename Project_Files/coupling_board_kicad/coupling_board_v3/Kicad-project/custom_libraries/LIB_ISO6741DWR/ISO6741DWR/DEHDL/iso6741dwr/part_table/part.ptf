@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISO6741DWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ISO6741DWR" (!) = "", "SOIC127P1030X265-16N", "Small Outline Packages", "595-ISO6741DWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO6741DWR?qs=eP2BKZSCXI5uF%252B1Ns5yk%2Fw%3D%3D", "ISO674x General Purpose Quad Channel Digital Isolators with Robust EMC", "https://www.ti.com/lit/ds/symlink/iso6741.pdf?ts=1612957387403&ref_url=https%253A%252F%252Fwww.mouser.co.uk%252F", "2.65 mm"
+END_PART
+
+END.

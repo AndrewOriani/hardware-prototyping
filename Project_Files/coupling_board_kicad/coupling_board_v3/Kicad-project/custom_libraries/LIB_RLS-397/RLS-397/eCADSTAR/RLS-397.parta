@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1942943"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-07-15-13:43:06)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RLS-397")
+)
+
+
+(pinAssign "ECS_1942943"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-07-15-13:43:06)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1942943")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RLS-397")
+)
+
+
+(part "RLS-397"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-07-15-13:43:06)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "RLS-397")
+    (pinAssignRef "ECS_1942943")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "PS")
+    (property "description" "Inductor Power Unshielded Wirewound 3.9uH 20% 100KHz 1.32A 0.14Ohm DCR 1812 Bag")
+    (property "Mouser_Part_Number" "919-RLS-397")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/RECOM-Power/RLS-397?qs=gZXFycFWdAMzj7SWZ0VCrw%3D%3D")
+    (property "Manufacturer_Name" "RECOM Power")
+    (property "Manufacturer_Part_Number" "RLS-397")
+    (property "Datasheet_Link" "https://recom-power.com/pdf/Accessories/RLS-397.pdf")
+    (property "compAreaTopHeight" 3.1)
+)
+
+

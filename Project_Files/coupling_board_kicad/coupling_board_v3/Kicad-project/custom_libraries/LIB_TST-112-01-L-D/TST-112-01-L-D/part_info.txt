@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=TST-112-01-L-D
+PartCategory=Connector
+PackageCategory=Other
+PinCount=24
+Version=1.1
+Released=2020-06-29 11:35:06
+Downloaded=2025-07-25 06:27:17
+3D=Y

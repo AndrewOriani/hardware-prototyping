@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "R-781_8-0_5"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-11-24-08:18:22)
+    (mountForm default
+        (footprintRef "R781805")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R-781.8-0.5
+D Recom Through Hole Switching Regulator, 1.8V dc Output Voltage, 4.75  32V dc Input Voltage, 500mA Output Current
+K
+F https://recom-power.com/pdf/Innoline/R-78-0.5.pdf
+$ENDCMP
+#
+#End Doc Library
