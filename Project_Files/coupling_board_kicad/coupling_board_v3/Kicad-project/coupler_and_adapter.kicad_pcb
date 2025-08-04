@@ -2528,69 +2528,6 @@
 	)
 	(footprint "NPTH"
 		(layer "F.Cu")
-		(uuid "694e5f66-17d4-4467-abcf-94488dbc8e02")
-		(at 107.04 123.491)
-		(property "Reference" "KiKit_TO_3"
-			(at 0 0.5 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "4a282524-259c-4ed0-8db9-1ef72a5052f1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "NPTH"
-			(at 0 -0.5 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3015fa83-2658-4a2b-834a-5ccd9da9e910")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "24f1ba93-8d00-46c7-ab53-70e9e2ad2dd5")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b41e2274-320d-48ce-8147-7b582d82a73c")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(solder_mask_margin 0)
-		(attr through_hole board_only exclude_from_bom)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 3 3)
-			(drill 3)
-			(layers "*.Mask")
-			(uuid "9e38ff64-2bd5-4f22-840a-384b0a0fed79")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "NPTH"
-		(layer "F.Cu")
 		(uuid "6c21863f-a874-4280-a47b-a239e0248b3f")
 		(at 164.775 81.832667)
 		(property "Reference" "KiKit_MB_2_1"
@@ -2648,69 +2585,6 @@
 			(drill 0.5)
 			(layers "*.Mask")
 			(uuid "dc4d1ead-c506-4b5e-8605-913154733b81")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "NPTH"
-		(layer "F.Cu")
-		(uuid "6ef72328-e01f-40cd-abcc-d20236de8b7e")
-		(at 195.85 59.491)
-		(property "Reference" "KiKit_TO_2"
-			(at 0 0.5 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "e53f58af-b492-423b-8ebf-fc388a5a6401")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "NPTH"
-			(at 0 -0.5 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "21295125-9301-4df8-a4f5-4cbf8493f810")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f8147a87-cf26-4162-8bae-364348a3f265")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0360b5db-dd53-45b9-be45-160355ec9726")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(solder_mask_margin 0)
-		(attr through_hole board_only exclude_from_bom)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 3 3)
-			(drill 3)
-			(layers "*.Mask")
-			(uuid "0b85d481-a463-493e-890a-ed8a0f19342a")
 		)
 		(embedded_fonts no)
 	)
@@ -4455,69 +4329,6 @@
 			(drill 0.5)
 			(layers "*.Mask")
 			(uuid "121e8dc6-a8b2-4ae9-9942-3a0c880d5b78")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "NPTH"
-		(layer "F.Cu")
-		(uuid "93712e29-3d5c-4495-a94a-eb86dd479c75")
-		(at 107.04 59.491)
-		(property "Reference" "KiKit_TO_1"
-			(at 0 0.5 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "7af0b4aa-dfb8-4aa4-9a83-d6ba3cb17828")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "NPTH"
-			(at 0 -0.5 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6523c4cb-dc8e-458c-a39c-40fd0c1e2a19")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fcb3bf42-7887-4362-8f70-41af9d0a01a6")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d8876498-d7fc-402c-a701-a28c1f6f3adb")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(solder_mask_margin 0)
-		(attr through_hole board_only exclude_from_bom)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 3 3)
-			(drill 3)
-			(layers "*.Mask")
-			(uuid "1e8ae97f-2df5-4926-b2fb-dee4cb1d3be8")
 		)
 		(embedded_fonts no)
 	)
