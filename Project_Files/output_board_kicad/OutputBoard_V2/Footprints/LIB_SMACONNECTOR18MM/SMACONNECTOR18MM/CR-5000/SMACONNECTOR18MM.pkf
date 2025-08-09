@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SMACONNECTOR18MM"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SMACONNECTOR18MM")
+        (spec "default")
+    )
+)

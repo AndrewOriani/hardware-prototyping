@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SMACONNECTOR18MM")(type "KiCad")(uri "C:/Users/oriani/Documents/Repositories/QuACK/hardware-prototyping/Project_Files/output_board_kicad/OutputBoard_V2/Footprints/LIB_SMACONNECTOR18MM/SMACONNECTOR18MM/KiCad/SMACONNECTOR18MM.pretty")(options "")(descr ""))
+)

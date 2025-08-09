@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMACONNECTOR18MM"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-12-09-11:08:49)
+    (mountForm default
+        (footprintRef "SMACONNECTOR18MM")
+        (spec "System")
+    )
+)

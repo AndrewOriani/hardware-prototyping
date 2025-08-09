@@ -1,0 +1,16 @@
+.SMACONNECTOR18MM :1 ;RF Connectors / Coaxial Connectors Right Angled SMA Connector with extended 18mm neck
+SMACONNECTOR18MM
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 5
+*DFN SMACONNECTOR18MM
+~!Mouser Part Number (471-SMACONNECTOR18MM)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/LPRS/SMACONNECTOR18MM?qs=Z%252BL2brAPG1Jyi4uHcEJFJw%3D%3D)
+~!Manufacturer_Name (LPRS)
+~!Manufacturer_Part_Number (SMACONNECTOR18MM)
+~!Link Datasheet (-)
+~!Height (14.8mm)
+~!3D_Model (SMACONNECTOR18MM)
+SMACONNECTOR18MM
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 
