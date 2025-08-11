@@ -610,7 +610,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../untitled folder/Revised Output Board/Fabrication Files/Raw Files/",
+      "plot": "../Production/Gerber/",
       "pos_files": "../../Desktop/",
       "specctra_dsn": "Output Boardroute.dsn",
       "step": "",
